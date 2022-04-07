@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+}
+.header, .hero {
+    background-color: #1F2937;
+    color: white;
+    font-family: sans-serif;
+}
+.header h2{
+    flex: 1;
+}
+.header a{
+    color: lightgray;
+    text-decoration: none;
+}
